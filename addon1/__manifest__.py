@@ -9,7 +9,7 @@ This module gives a framework for SMS text messaging
 ----------------------------------------------------
 The service is provided by the In App Purchase Odoo platform.
 """,
-    'depends': ['addon4','addon5','addonZ','not_existing_module'],
+    'depends': ['addon4','addon5','addonZ'],
     'data': [
     ],
     'qweb': [
