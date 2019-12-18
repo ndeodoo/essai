@@ -18,6 +18,6 @@ The service is provided by the In App Purchase Odoo platform.
     'auto_install': True,
     #'price': 115,
     'currency': 'EUR',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'support': 'test@test.com',
 }
