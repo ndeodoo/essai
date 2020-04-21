@@ -14,6 +14,7 @@ The service is provided by the In App Purchase Odoo platform.
     ],
     'qweb': [
     ],
+    'languages': ['en', 'fr'],
     'installable': True,
     'auto_install': True,
     'images': ['static/description/icon.png'],
